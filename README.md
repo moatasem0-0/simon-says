@@ -14,7 +14,7 @@ The **Simon Says Game** is a memory-based game where players must repeat a rando
 - Random sequence generation.
 - Progress indicators for turns and player input.
 - Sound and color effects for button presses.
-- Confetti celebration on winning!.
+- Confetti celebration on winning!
 
 ## 📂 Project Structure
 ```
