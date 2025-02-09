@@ -3,7 +3,7 @@
 ## 📌 About the Game
 The **Simon Says Game** is a memory-based game where players must repeat a randomly generated sequence of button presses. Each round, the sequence grows longer, testing the player's ability to remember and replicate the pattern.
 
-### 🎮 How to Play
+## 🎮 How to Play
 1. Click the **Start** button to begin.
 2. Watch the sequence of buttons lighting up.
 3. Repeat the sequence by clicking the buttons in the same order.
