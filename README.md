@@ -36,3 +36,10 @@ The **Simon Says Game** is a memory-based game where players must repeat a rando
 ## 🔧 Dependencies
 - jQuery (for animations)
 - Canvas Confetti (for win animation)
+
+## 👥 Contributors
+- **Moatasem Mohamed Ahmed**
+- **Walid Tawfik**
+- **Ahmed Hussein Hassan**
+- **Ahmed Elnaggar**
+- **Ziad Elmalhy**
